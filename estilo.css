@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(83, 108, 177);
+    color:#7c0404;
+}
+
+div#interface {
+    width: : 90px;
+    background-color: #f5f2f2;
+    margin: 10px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    padding: 10px 10px 10px 10px;
+}
+
+h1.titulo-principal{
+    text-align: center;
+    color:blue;
+}
+
+h1.titulo-exercicios {
+      text-align: center;
+      color: rgb(211, 163, 5);
+}
+
+h2.questoes {
+    padding: 0px 0px 0px 10px;    
+}
+
+button.resposta {
+    background-color: #07a321;
+    border-radius: 15%;
+    color: #ffffff;
+    border: black 1px solid;
+}
